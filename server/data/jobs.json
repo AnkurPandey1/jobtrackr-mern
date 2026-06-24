@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "8lmpv99",
+    "company": "Microsoft ",
+    "position": "Backend develpment ",
+    "status": "Assessment",
+    "location": "Remote",
+    "applicationDate": "2026-06-24",
+    "notes": "Update Resume ",
+    "jobLink": "",
+    "createdBy": "ifuiera",
+    "createdAt": "2026-06-24T12:13:40.119Z"
+  },
+  {
+    "_id": "3qprlr0",
+    "company": "Google ",
+    "position": "FUll stack ",
+    "status": "Offer",
+    "location": "Delhi ",
+    "salary": 100000,
+    "applicationDate": "2026-06-25",
+    "notes": "",
+    "jobLink": "",
+    "createdBy": "ifuiera",
+    "createdAt": "2026-06-24T12:14:24.118Z"
+  },
+  {
+    "_id": "62wwdnt",
+    "company": "EY ",
+    "position": "AI development ",
+    "status": "Interview",
+    "location": "hyderabad ",
+    "applicationDate": "2026-06-24",
+    "notes": "- polish my project = readme.md file ",
+    "jobLink": "",
+    "createdBy": "ifuiera",
+    "createdAt": "2026-06-24T12:23:52.483Z"
+  }
+]
