@@ -6,15 +6,19 @@ A full-stack MERN application that helps job seekers organize, track, and analyz
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](screenshot/dashboard.png)
 
 ### Applications Page
 
-![Applications](./screenshots/applications.png)
+![Applications](screenshot/applications.png)
 
 ### Login Page
 
-![Login](./screenshots/login.png)
+![Login](screenshot/login.png)
+
+### Add Job Page
+
+![Add Job](screenshot/add-job.png)
 
 ---
 
@@ -72,7 +76,7 @@ jobtrackr-mern/
 │
 ├── client/
 ├── server/
-├── screenshots/
+├── screenshot/
 ├── README.md
 └── .gitignore
 ```
@@ -173,6 +177,6 @@ Built using MongoDB Aggregation Pipelines and Recharts.
 
 ## 👨‍💻 Author
 
-Ankur Pandey
+**Ankur Pandey**
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
+⭐ If you found this project useful, consider starring the repository.
